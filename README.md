@@ -20,7 +20,7 @@ Interests:
 
   # Featured Projects
 
-- Below are a few of the projects I’ve worked on, showcasing my skills in Python, Data Science, and Business Intelligence. These projects highlight my ability to solve real-world problems using data analysis, machine learning, and automation.
+Below are a few of the projects I’ve worked on, showcasing my skills in Python, Data Science, and Business Intelligence. These projects highlight my ability to solve real-world problems using data analysis, machine learning, and automation.
 
 - **Capstone: Task Manager (Python File Handling & CLI App)**
 -Built a CLI-based task management system using Python and file handling for efficient task tracking.
