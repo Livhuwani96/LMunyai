@@ -22,10 +22,10 @@ Interests:
 
 - Below are a few of the projects I’ve worked on, showcasing my skills in Python, Data Science, and Business Intelligence. These projects highlight my ability to solve real-world problems using data analysis, machine learning, and automation.
 
-**Capstone: Task Manager (Python File Handling & CLI App)**
+- **Capstone: Task Manager (Python File Handling & CLI App)**
 -Built a CLI-based task management system using Python and file handling for efficient task tracking.
-**Tech Used:** Python (File I/O, Data Structures, Control Flow)
-**Key Features:**
+- **Tech Used:** Python (File I/O, Data Structures, Control Flow)
+- **Key Features:**
 - User authentication & login system (user.txt)
 - Task assignment, tracking, and status updates (tasks.txt)
 - Admin dashboard for task & user statistics
