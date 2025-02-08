@@ -13,8 +13,35 @@ This space is where I share my projects, ideas, and experiments as I continue gr
 
 Interests:
 
-Exploring the tech world
-Swimming
-Chasing Sunsets
-Video Games
+- Exploring the tech world
+- Swimming
+- Chasing Sunsets
+- Video Games
+
+  # Featured Projects
+
+- Below are a few of the projects I’ve worked on, showcasing my skills in Python, Data Science, and Business Intelligence. These projects highlight my ability to solve real-world problems using data analysis, machine learning, and automation.
+
+🔹 Task Manager (Python File Handling & CLI App)
+📌 Built a CLI-based task management system using Python and file handling for efficient task tracking.
+🛠 Tech Used: Python (File I/O, Data Structures, Control Flow)
+🔹 Key Features:
+✅ User authentication & login system (user.txt)
+✅ Task assignment, tracking, and status updates (tasks.txt)
+✅ Admin dashboard for task & user statistics
+🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Files)**
+
+🔹 Capstone: Linear Regression in Action
+📌 Developed a predictive model to analyze housing prices using multiple linear regression.
+🛠 Tech Used: Python, Pandas, Scikit-learn, Matplotlib
+📊 Outcome: Modeled house price relationships & evaluated accuracy using RMSE & MSE.
+🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action)**
+
+🔹 Capstone: NLP Applications
+📌 Implemented text classification using Natural Language Processing (NLP) techniques.
+🛠 Tech Used: Python, NLTK, Scikit-learn
+💡 Outcome: Built an NLP model for sentiment analysis and automated text categorization.
+🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**
+
+
 
