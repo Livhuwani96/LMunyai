@@ -18,7 +18,7 @@ Interests:
 - Chasing Sunsets
 - Video Games
 
-  # Featured Projects
+# Featured Projects
 
 Below are a few of the projects I’ve worked on, showcasing my skills in Python, Data Science, and Business Intelligence. These projects highlight my ability to solve real-world problems using data analysis, machine learning, and automation.
 
