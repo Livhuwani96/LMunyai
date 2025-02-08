@@ -35,17 +35,17 @@ Interests:
 
 **Capstone: Linear Regression in Action**
 - Developed a predictive model to analyze housing prices using multiple linear regression.
-**Tech Used:** Python, Pandas, Scikit-learn, Matplotlib
-**Outcome:** Modeled house price relationships & evaluated accuracy using RMSE & MSE.
-🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action)**
+- **Tech Used:** Python, Pandas, Scikit-learn, Matplotlib
+- **Outcome:** Modeled house price relationships & evaluated accuracy using RMSE & MSE.
+- 🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action)**
 
 ---
 
 **Capstone: NLP Applications**
 - Implemented text classification using Natural Language Processing (NLP) techniques.
-**Tech Used:** Python, NLTK, Scikit-learn
-**Outcome:** Built an NLP model for sentiment analysis and automated text categorization.
-🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**
+- **Tech Used:** Python, NLTK, Scikit-learn
+- **Outcome:** Built an NLP model for sentiment analysis and automated text categorization.
+- 🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**
 
 ----
 
