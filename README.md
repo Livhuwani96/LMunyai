@@ -5,7 +5,7 @@
 Exploring the World of Data.
 My journey into the data industry wasn’t a straight path; it was shaped by curiosity, problem-solving, and a drive to understand how things work. I started in IT administration and technical consulting, managing systems, networks, and cloud services. But over time, I realized that what fascinated me most wasn’t just keeping things running; it was the data behind it all.
 
-That curiosity led me into business intelligence, where I built dashboards, optimized data pipelines, and helped stakeholders turn raw numbers into meaningful insights. But I didn’t stop there. I wanted to go deeper, to understand not just how to present data, but how to analyze it, model it, and make predictions. That’s why I pursued data science, expanding my skills in machine learning, analytics, and automation.
+That curiosity led me into Business Intelligence, where I built dashboards, optimized data pipelines, and helped stakeholders turn raw numbers into meaningful insights. But I didn’t stop there. I wanted to go deeper, to understand not just how to present data, but how to analyze it, model it, and make predictions. That’s why I pursued data science, expanding my skills in machine learning, analytics, and automation.
 
 Today, I see myself as more than just a BI Developer; I’m someone who thrives on solving problems with data. Whether it's building ETL processes, designing dashboards, or exploring machine learning models, I love finding ways to turn complex data into something useful.
 
@@ -17,6 +17,15 @@ Interests:
 - Swimming
 - Chasing Sunsets
 - Video Games
+
+# Tools & Technologies  
+- **Programming & Scripting:** Python, SQL, T-SQL  
+- **Business Intelligence & Reporting:** Power BI, Tableau, SSRS (SQL Server Reporting Services), DAX  
+- **Databases & Data Engineering:** SQL Server, ETL Pipelines, SSIS (SQL Server Integration Services), SSAS (SQL Server Analysis Services)  
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, NLTK  
+- **API Development & Testing:** REST APIs, Postman, Python Requests  
+- **Cloud & DevOps:** Microsoft 365, Active Directory, Azure DevOps  
+- **Development Tools:** Visual Studio, Git, Jupyter Notebook, Excel 
 
 # Featured Projects
 
@@ -57,4 +66,6 @@ Below are a few of the projects I’ve worked on, showcasing my skills in Python
 
 ---
 
-
+# Connect With Me  
+- **LinkedIn:** [linkedin.com/in/livhuwani-munyai-4b85b3b1](https://www.linkedin.com/in/livhuwani-munyai-4b85b3b1)  
+- **Email:** livhuwani96@gmail.com
