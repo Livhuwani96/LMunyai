@@ -1,5 +1,7 @@
 # # Hello, I'm Livhuwani 👋
 
+----
+
 # About Me
 
 Exploring the World of Data.
@@ -18,6 +20,8 @@ Interests:
 - Chasing Sunsets
 - Video Games
 
+---
+
 # Tools & Technologies  
 - **Programming & Scripting:** Python, SQL, T-SQL  
 - **Business Intelligence & Reporting:** Power BI, Tableau, SSRS (SQL Server Reporting Services), DAX  
@@ -26,6 +30,8 @@ Interests:
 - **API Development & Testing:** REST APIs, Postman, Python Requests  
 - **Cloud & DevOps:** Microsoft 365, Active Directory, Azure DevOps  
 - **Development Tools:** Visual Studio, Git, Jupyter Notebook, Excel 
+
+---
 
 # Featured Projects
 
