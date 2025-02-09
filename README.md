@@ -46,7 +46,7 @@ Below are a few of the projects I’ve worked on, showcasing my skills in Python
 - Admin dashboard for task & user statistics
 -🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Files)**
 
----
+
 
 **Capstone: Linear Regression in Action**
 - Developed a predictive model to analyze housing prices using multiple linear regression.
@@ -54,7 +54,7 @@ Below are a few of the projects I’ve worked on, showcasing my skills in Python
 - **Outcome:** Modeled house price relationships & evaluated accuracy using RMSE & MSE.
 - 🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action)**
 
----
+
 
 **Capstone: NLP Applications**
 - Implemented text classification using Natural Language Processing (NLP) techniques.
@@ -62,7 +62,7 @@ Below are a few of the projects I’ve worked on, showcasing my skills in Python
 - **Outcome:** Built an NLP model for sentiment analysis and automated text categorization.
 - 🔗 **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**
 
-----
+
 
 **SQL Job History Tracking**
 - Developed a SQL-based system to track and monitor job execution history, ensuring data integrity and performance oversight.
