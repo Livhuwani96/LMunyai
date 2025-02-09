@@ -51,8 +51,10 @@ Below are a few of the projects I’ve worked on, showcasing my skills in Python
 
 **SQL Job History Tracking**
 - Developed a SQL-based system to track and monitor job execution history, ensuring data integrity and performance oversight.
-- Tech Used: SQL Server, T-SQL, Table Variables, Stored Procedures
-- Outcome: Automated SQL job tracking, improving BI team efficiency and enabling historical performance analysis.
+- **Tech Used:** SQL Server, T-SQL, Table Variables, Stored Procedures
+- **Outcome:** Automated SQL job tracking, improving BI team efficiency and enabling historical performance analysis.
 -🔗 **[View Project](https://github.com/Livhuwani96/SQL-Projects/tree/main/Job%20History%20Tracking)**
+
+---
 
 
